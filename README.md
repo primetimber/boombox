@@ -1,2 +1,2 @@
 # boombox
-Arduino based mp3 player based on the TonUINO
+Arduino mp3 player based on the TonUINO
